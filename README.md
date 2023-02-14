@@ -1,4 +1,4 @@
-# 별다줄
+# 📃 별다줄
 
 ## 긴 글 요약 API
 
@@ -35,5 +35,4 @@ Fast api 사용 구현
 1. 사진 입력 -> OCR (tesserct 사용) -> API call -> 결과 출력 -> 결과 내부 text파일로 저장
 2. 저장된 결과 보기 -> 내부 text 파일 read -> list 출력 -> 선택 시 내용 출력
 
-시연 영상 참고
-https://youtu.be/EI8dDueB7t
+[별다줄 발표 자료 및 시연영상] (https://youtu.be/z9PXAox64PU)
